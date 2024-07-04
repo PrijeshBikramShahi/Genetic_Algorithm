@@ -98,7 +98,7 @@ To run this project locally, follow these steps:
   def decode_binary(x):
       sign_bit = int(x[0])
       integer_part = int(x[1:4], 2)
-      fractional_part = int(x[4:], 2) / 2**2  # Adjust the power to match the number of fractional bits
+      fractional_part = int(x[4:], 2) / 2**6  # Adjust the power to match the number of fractional bits
       x_real = (-1)**sign_bit * (integer_part + fractional_part)
       return x_real
 ```
