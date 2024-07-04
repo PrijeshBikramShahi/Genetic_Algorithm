@@ -13,8 +13,6 @@ This project implements a genetic algorithm to find the solution for a quadratic
   - [Uniform Crossover](#uniform-crossover)
   - [Mutation](#mutation)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
