@@ -133,8 +133,8 @@ def mutate(individual):
   After running the genetic algorithm, the best solution found will be printed along with its fitness value:
   
 ```text
-Best individual found: 101010
-Decoded best solution: x = -2.5, Fitness = 0.25
+Best individual found: 0010011101
+Decoded best solution: x = 2.453125, Fitness = 4.930908203125
 ```
 
 
