@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/PrijeshBikramShahi/Genetic_Algorithm.git
-   cd genetic-algorithm-quadratic-equation
+   cd Genetic_Algorithm
    ```
 
 ### 2. Create a virtual environment (optional but recommended):
