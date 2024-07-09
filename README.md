@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/genetic-algorithm-quadratic-equation.git
+   git clone https://github.com/PrijeshBikramShahi/Genetic_Algorithm.git
    cd genetic-algorithm-quadratic-equation
    ```
 
